@@ -1,3 +1,4 @@
+# [Pandas Party 1 🐼🎉](https://leetcode.com/problems/create-a-dataframe-from-list/solutions/4919945/pandas-party-1)
 # Intuition
 To solve this problem, we can use the pandas library in Python, which provides an easy way to create DataFrames. We'll iterate through the given 2D list of student data and create a DataFrame with columns for student IDs and ages.
 
